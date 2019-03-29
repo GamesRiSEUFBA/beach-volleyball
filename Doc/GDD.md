@@ -13,6 +13,13 @@ Game modes include exhibition matches (a quick match against the CPU or another 
 ## Gameplay
 While in match, you control one of the characters from your pair of athletes. Using the directional pad or the left analog, you can move them in the 3D environment. Pressing "X" (assuming the DualShock 4 joystick layout) makes the character jump, and pressing "Square" will attempt to throw the ball to the other side. Pressing "Circle" will attempt to pass the ball to your teammate, and pressing "L1" will switch which character you are controlling.
 
+## Player Skills
+* **Serve**: put the ball into play by striking it with the hand or arm from behind the rear court boundary. The higher the level, the more precision and speed the ball will have.
+* **Force**: force to hit the ball. The level implies the speed applied to the ball.
+* **Resistence (IDEA)**: the players get tired during the match. The higher the resistance, the less fatigue.
+* **Speed (IDEA)**: player's speed. The higher the level, the greater the speed when walking along the court.
+* **Block**: score a direct point by directing an attack by the opposing attacker back into their court, or channel the ball to the defender by "taking away" part of the court, or slow the ball down so the defender has time to chase down the ball. The level adjusts how much the player can jump and penetrate in the opponent's field.
+
 ## Art Style and Aesthetic Decisions
 The volleyball matches in be played in virtual representations of Brazil's most popular beaches. Important details are yet to be decided:
 
